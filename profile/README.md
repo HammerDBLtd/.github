@@ -2,7 +2,7 @@
 
 HammerDB Ltd develops and maintains HammerDB, the industry-standard open-source database benchmarking platform.
 
-HammerDB supports Oracle Database, Microsoft SQL Server, IBM Db2, MySQL, MariaDB and PostgreSQL with TPROC-C and TPROC-H workloads.
+HammerDB supports Oracle Database, Microsoft SQL Server, IBM Db2, MySQL, MariaDB, PostgreSQL and VillageSQL with TPROC-C and TPROC-H workloads.
 
 ## HammerDB
 
